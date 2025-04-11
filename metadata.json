@@ -1,0 +1,19 @@
+{
+    "name": "Blue Ozno",
+    "description": "파란 배경과 퍼플 그림자가 어우러진 추상적 존재, Blue Ozno는 혼돈 속에서 창조를 상징합니다.",
+    "image": "https://raw.githubusercontent.com/Jinho-5/nft-art/main/Blue_ozno.PNG",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Abstract Pop"
+      }
+    ]
+  }
